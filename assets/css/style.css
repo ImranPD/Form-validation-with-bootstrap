@@ -1,0 +1,15 @@
+*{
+	margin:0px;
+	padding: 0px;
+	font-family: candara;
+}
+body{
+	width:80%;
+	margin: 100px auto;
+}
+.wrap{
+	width: 500px;
+	height: 100%;
+	margin: auto;
+	border: 8px solid green;
+}
